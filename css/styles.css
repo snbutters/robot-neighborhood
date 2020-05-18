@@ -1,11 +1,22 @@
-#result {
-  display: none;
+h1 {
+  padding-top: 10px;
+  padding-bottom: 15px;
 }
 
-h1 {
-  padding-bottom: 10px;
+label{
+  padding-right: 10px;
+}
+
+.btn {
+  background-color: rgb(197, 204, 211);
+  font-weight: bold;
 }
 
 p {
-  padding-top: 10px;
+  padding-top: 20px;
+  font-size: 15px;
+}
+
+#result {
+  display: none;
 }
