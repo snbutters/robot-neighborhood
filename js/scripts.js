@@ -5,11 +5,11 @@ const beepBoop = function(number) {
   for (let index = 0; index <= number; index += 1) {
     let input = index.toString();
     if (input.includes("3")) {
-      result.push(" Won't you be my neighbor?");
+      result.push("Won't you be my neighbor?");
     } else if (input.includes("2")) {
-      result.push(" boop");
+      result.push("boop");
     } else if (input.includes("1")) {
-      result.push(" beep");
+      result.push("beep");
     } else {
       result.push(input)
     }

@@ -1,4 +1,4 @@
-# Robot Neighborhood
+# Mr. Roboger's Neighborhood
 
 #### Epicodus Independent Project, 05.17.2020
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+This is a simple web application that takes a number from the user and returns a range of numbers from 0 to the users inputted number, while replacing certain values with "beep", "boop", and "Won't you be my neighbor?".
 
 ### Specifications
 
