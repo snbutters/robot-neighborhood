@@ -33,6 +33,8 @@ This is a simple web application that takes a number from the user and returns a
 
 *You can also [click here](https://snbutters.github.io/robot-neighborhood/) for direct access to the webpage.*
 
+## Technologies Used
+
 * JavaScript
 * jQuery
 * HTML
