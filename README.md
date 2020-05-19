@@ -8,6 +8,21 @@
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+### Specifications
+
+* The program returns a range of numbers from 0 to the users inputted number.
+  - Input: 4
+  - Output: 0, 1, 2, 3, 4
+* All digits are replaced with "beep" for numbers that contain a 1.
+  - Input: 1
+  - Output: 0, beep
+* All digits are replaced with "boop" for numbers that contain a 2.
+  - Input: 3
+  - Output: 0, beep, boop, 3
+* All digits are replaced with "Won't you be my neighbor?" for numbers that contain a 3.
+  - Input: 5
+  - Output: 0, beep, boop, Won't you be my neighbor?, 4, 5
+
 ## Setup/Installation Requirements
 
 #### To clone the repository:
