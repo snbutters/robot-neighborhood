@@ -2,14 +2,14 @@
 
 const beepBoop = function(number) {
   let result = [];
-  for (let i = 0; i <= number; i++) {
-    let input = i.toString();
+  for (let index = 0; index <= number; index += 1) {
+    let input = index.toString();
     if (input.includes("3")) {
       result.push(" Won't you be my neighbor?");
     } else if (input.includes("2")) {
-      result.push(" Boop!");
+      result.push(" boop");
     } else if (input.includes("1")) {
-      result.push(" Beep!");
+      result.push(" beep");
     } else {
       result.push(input)
     }
